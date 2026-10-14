@@ -1,0 +1,10 @@
+{
+  "Author": "Arzhael",
+  "Name": "OffStreamXIV",
+  "Punchline": "Hide plugin windows from your stream (OBS and other capture software) while you keep seeing them.",
+  "Description": "Choose what your stream sees: hide a whole plugin, or only its main window, its settings or some of its windows, from OBS and other capture software (game, window and display capture). They stay visible on your screen. Texts that plugins add inside game windows (for example Character Panel Refined in the Character window) can be hidden too.\nRequires Dalamud's \"Enable multi-monitor windows\" setting, the game in windowed or borderless window mode, and more than one monitor.\nAvailable in English and French. Command: /offstream",
+  "ApplicableVersion": "any",
+  "Tags": [ "stream", "streaming", "obs", "capture", "privacy", "windows" ],
+  "RepoUrl": "https://github.com/Arzhaell/OffStreamXIV",
+  "IconUrl": "https://raw.githubusercontent.com/Arzhaell/OffStreamXIV/main/images/icon.png"
+}

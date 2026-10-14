@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="OffStreamXIV/OffStreamXIV.csproj" />
+  <Project Path="OffStreamXIV.Tests/OffStreamXIV.Tests.csproj" />
+</Solution>
